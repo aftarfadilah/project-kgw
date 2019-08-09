@@ -1,16 +1,12 @@
-# kunjungan_guru_wali
+# Project Kunjungan Guru Wali
 
 Project Sekolah - Kunjungan Guru Wali
 
-## Getting Started
+## Main Purpose
 
-This project is a starting point for a Flutter application.
+![alt text](assets/jadwal-screen.png "Project KGW")
 
-A few resources to get you started if this is your first Flutter project:
+Teachers job to visit all their student is a must in SMK PGRI 3 Malang and it's not an easy job. Without proper documentation, the teachers can get lost or be in a danger.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+But with this app, it's now a lot easier to visit each student. Start from making the schedule for several students for each day, done visiting? Just check the student in the schedule and you're good to go to the next student.
+If teachers have some trouble visiting the student, there's a map feature by using google navigation API from the teacher current position to the student address. Or just call their parent number by pressing one button. It's that easy...
